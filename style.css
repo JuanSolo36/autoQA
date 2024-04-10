@@ -56,13 +56,15 @@
   }
 
   #login-form input[type="email"],
-  #login-form input[type="password"] {
+  #login-form input[type="password"],
+  #login-form input[type="text"] {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
+    background: #d4d4d4;
   }
 
   #login-form button[type="submit"] {
