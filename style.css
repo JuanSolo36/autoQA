@@ -13,6 +13,14 @@
     font-size: 16px; /* Define un tamaño de fuente base */
   }
 
+  #wave_svg {
+    width: 50%;
+    height: 94%;
+    /* Ajusta el ancho de la imagen "Wave SVG.png" según sea necesario */
+    margin-bottom: 20px;
+    /* Ajusta el margen inferior según sea necesario */
+  }
+
   #contenedor {
     display: flex;
     justify-content: center;
